@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>Hi, I'm Ethan 👋</h1>
-  <img src="https://komarev.com/ghpvc/?username=ethan-ngo&style=flat-square" alt="Profile views"/>
-</div>
+# Hi, I'm Ethan 👋 ![Profile views](https://komarev.com/ghpvc/?username=ethan-ngo&style=for-the-badge)
 🎥 I'm currently interning at FOX on the data products team.  
 🌱 Passionate about applied AI/ML in web applications.  
 📚 I enjoy learning about philosophy and working out at the gym.
