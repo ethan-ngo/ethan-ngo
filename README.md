@@ -1,4 +1,7 @@
-# Hi, I'm Ethan 👋
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>Hi, I'm Ethan 👋</h1>
+  <img src="https://komarev.com/ghpvc/?username=ethan-ngo&style=flat-square" alt="Profile views"/>
+</div>
 🎥 I'm currently interning at FOX on the data products team.  
 🌱 Passionate about applied AI/ML in web applications.  
 📚 I enjoy learning about philosophy and working out at the gym.
@@ -34,7 +37,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 # GitHub Stats 📊
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ethan-ngo)
 ![](https://nirzak-streak-stats.vercel.app/?user=ethan-ngo&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-ngo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
