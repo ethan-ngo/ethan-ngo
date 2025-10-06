@@ -1,8 +1,9 @@
 # Hi, I'm Ethan 👋
 🎥 I'm currently interning at FOX on the data products team.  
 🌱 Passionate about applied AI/ML in web applications.  
-📚 I enjoy learning about philosophy and working out at the gym.
+📚 I enjoy learning about philosophy and working out at the gym.  
 ![Profile views](https://komarev.com/ghpvc/?username=ethan-ngo&style=plastic)
+
 
 # Tech Stack 💻 
 ### Languages
