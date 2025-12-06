@@ -1,5 +1,5 @@
 # Hi, I'm Ethan 👋
-🎥 I'm currently interning at FOX on the data products team.  
+🔬 I'm currently doing research on multi-sensor data fusion using ML. 
 🌱 Passionate about applied AI/ML in web applications.  
 📚 I enjoy learning about philosophy and working out at the gym.  
 
